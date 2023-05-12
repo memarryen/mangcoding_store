@@ -27,20 +27,13 @@ header {
     padding: 2% 10%;
 }
 .logo-img {
-    Width: 45px;
-    Height: 39px;
+    width: 150px;
+    height: 30px;
 }
-.webname {
-    font-family: roboto;
-    font-weight: 700;
-    font-size: 12px;
-    color: #545BE8;
-    padding-left: 0.1%;
-    padding-right: 10%;
 
-}
 nav {
     width: 90%;
+    text-align: end;
 }
 .homepage, .course-page, .aboutus-page, .article-page, .contact-page {
     font-family: poppins;
@@ -72,6 +65,7 @@ nav {
     background-color: #FFFFFF;
     border: 0.5px solid #545BE8;
     padding: 1% 5%;
+    margin-left: 5%;
 }
 .register-button {
     background-color: #545BE8;
@@ -88,7 +82,7 @@ nav {
 .section-1 {
     height: 80.5vh;
     padding-top: 1%;
-    margin-right: 7%;
+    margin-right: 15%;
 }
 .p1 {
     font-family: Inter;
